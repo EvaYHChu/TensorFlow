@@ -1,0 +1,8 @@
+#https://www.tensorflow.org/install?hl=zh-tw
+
+# Docker Desktop on Windows
+https://docs.docker.com/desktop/windows/install/
+
+# WSL 2 backend
+https://docs.microsoft.com/en-us/windows/wsl/install
+https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
