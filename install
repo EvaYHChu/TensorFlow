@@ -6,3 +6,11 @@ https://docs.docker.com/desktop/windows/install/
 # WSL 2 backend
 https://docs.microsoft.com/en-us/windows/wsl/install
 https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+
+# cmd
+# https://hub.docker.com/r/tensorflow/tensorflow/
+docker pull tensorflow/tensorflow
+
+
+sudo docker run --rm --gpus all nvidia/cuda:11.0.3-base-ubuntu20.04 nvidia-smi
+docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
